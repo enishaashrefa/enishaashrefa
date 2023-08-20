@@ -114,7 +114,7 @@ Technology never stands still, and neither do I. As the tech landscape evolves, 
 
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you'd like to collaborate, share insights, or just geek out about software quality. Let's raise the bar for software together!
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/enisha-ashrefa) and let's embark on a quality assurance adventure. 🚀
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/enishaashrefa/) and let's embark on a quality assurance adventure. 🚀
 
 <br/> 
 

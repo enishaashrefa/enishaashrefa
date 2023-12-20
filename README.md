@@ -236,7 +236,7 @@ result in the range of 25%, 50% and 100%.
  -->
 
 ## My CV
-You can find my detailed CV [here](https://drive.google.com/file/d/16jd92MGWXzmvWt10PSHrWZbZtEqHeho0/view?usp=sharing).
+You can find my detailed CV [here](https://drive.google.com/file/d/1dF5sTh-YGhaYukfXItwNPmyobD_vFBTc/view?usp=sharing).
 
   
 
